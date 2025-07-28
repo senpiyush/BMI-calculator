@@ -8,6 +8,8 @@ After calculation, it will tell you whether you are underweight, healthy, or ove
 # Formula
 BMI=(weight/(height*height)*703)
 
+# URL
+  ---> http://localhost:5173
 # Technology used
 1. **useState**: Used for managing the state of the height, weight, and BMI values.
 2. **Conditional Rendering**: Displays the BMI result and category (underweight, healthy, overweight) based on the calculated BMI.
